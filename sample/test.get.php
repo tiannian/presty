@@ -1,0 +1,3 @@
+<?php
+//GET /test
+?>

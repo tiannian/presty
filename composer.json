@@ -1,0 +1,21 @@
+{
+	"name": "tiannian/presty",
+	"description": "A simple RESTful API framework",
+	"keywords": ["restful","api"],
+	"license": "Apache",
+	"authors": [
+		{
+			"name": "tiannian",
+			"email": "dtiannian@aliyun.com"
+		}
+	],
+	"require": {
+		"php": "^5.3.3 || ^7.0",
+		"ralouphie/getallheaders": "^2.0"
+	},
+	"autoload": {
+		"files": [
+			"src/app.php"
+		]
+	}
+}
