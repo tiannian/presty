@@ -2,7 +2,7 @@
 	"name": "tiannian/presty",
 	"description": "A simple RESTful API framework",
 	"keywords": ["restful","api"],
-	"license": "Apache",
+	"license": "LGPL-3.0",
 	"authors": [
 		{
 			"name": "tiannian",
