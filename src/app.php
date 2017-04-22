@@ -1,7 +1,7 @@
 <?php
 require_once 'code.php';
 require_once 'url_match.php';
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 $resty_request = array();
 $resty_request['url'] = @$_SERVER['DOCUMENT_URI'];
